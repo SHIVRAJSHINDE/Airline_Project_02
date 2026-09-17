@@ -11,7 +11,6 @@ myEnv_01\Scripts\activate
     - Actual visualization
 2-Ml Project
 - Data Cleaning
-- Actual visualization
 - Data Transformation
 - Model Building
 - Model Deployment
