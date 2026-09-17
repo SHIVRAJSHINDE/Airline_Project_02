@@ -3,3 +3,15 @@
 pip install virtualenv
 virtualenv -p python3 myEnv_01
 myEnv_01\Scripts\activate
+
+
+
+1-Data Analysis
+    - Data Cleaning
+    - Actual visualization
+2-Ml Project
+- Data Cleaning
+- Actual visualization
+- Data Transformation
+- Model Building
+- Model Deployment
